@@ -1,0 +1,9 @@
+*.log
+*.tmp
+*.iso
+*.vmdk
+*.vmem
+*.lck
+*.zip
+Thumbs.db
+.DS_Store
